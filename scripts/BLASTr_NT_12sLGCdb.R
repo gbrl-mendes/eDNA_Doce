@@ -1,7 +1,7 @@
 ---
 title: "BLASTr  NT + 12sLGCdb"
 author: "Hilario, HO; Mendes, GA"
-date: "02/2024"
+date: "03/2024"
 ---
   
   ## Carregando bibliotecas ----

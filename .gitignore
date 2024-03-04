@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+*.RData
+.RData
+.Ruserdata
+*.pdf
+*.png
+*.Rproj
+.csv
+*.csv
+lagoa_ingleses.Rproj
+environment_lagoa_plots.RData
+environment_lagoa_arvores.RData
+.xlsx
